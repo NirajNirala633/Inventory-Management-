@@ -1,0 +1,55 @@
+{
+  "brands": [
+    {
+      "id": "1",
+      "name": "LG"
+    },
+    {
+      "id": "2",
+      "name": "Samsung"
+    },
+    {
+      "id": "0d2d",
+      "name": "Toshiba"
+    },
+    {
+      "id": "137f",
+      "name": "Apple"
+    },
+    {
+      "id": "079d",
+      "name": "Rakuten"
+    }
+  ],
+  "products": [
+    {
+      "name": "LG TV 32inch",
+      "details": "detail",
+      "brandId": "1",
+      "purchasePrice": "10000",
+      "salePrice": 120,
+      "availableQuantity": -5,
+      "id": "1"
+    },
+    {
+      "name": "rg",
+      "details": "be",
+      "brandId": "079d",
+      "purchasePrice": 46,
+      "salePrice": 5,
+      "availableQuantity": "500000000000000006466413",
+      "id": "001f"
+    }
+  ],
+  "orders": [
+    {
+      "orderNo": "avd",
+      "productId": "1",
+      "quantity": "2",
+      "salePrice": 120,
+      "discount": "74",
+      "totalAmount": 166,
+      "id": "5423"
+    }
+  ]
+}
